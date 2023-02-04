@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ailton Fidelix. I live in Santa Catarina, Brazil. I’m interested in C++ and Python.
+I'm Ailton Fidelix from Brazil. I’m interested in C/C++ and Python.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ailton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailtonfidelix/)](https://www.linkedin.com/in/ailton-fidelix-9603b31b7/) 
